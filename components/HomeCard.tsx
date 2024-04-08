@@ -1,4 +1,3 @@
-
 'use client';
 
 import Image from 'next/image';
@@ -17,7 +16,7 @@ const HomeCard = ({ className, img, title, description, handleClick }: HomeCardP
   return (
     <section
       className={cn(
-        'bg-orange-1 px-5 py-6 flex flex-col justify-between w-full xl:max-w-[350px] min-h-[260px] rounded-[14px] cursor-pointer',
+        'bg-orange-1 px-4 py-6 flex flex-col justify-between w-full xl:max-w-[370px] min-h-[260px] rounded-[14px] cursor-pointer',
         className
       )}
       onClick={handleClick}

@@ -16,7 +16,7 @@ const Navbar = () => {
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Vision
+          VISION
         </p>
       </Link>
 
