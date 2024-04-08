@@ -1,4 +1,4 @@
-# ZOOM CLONE
+# VIDEO CALL APPLICATION
 
 ## [LIVE](https://zoom-clone-alpha-eosin.vercel.app/)
 
