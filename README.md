@@ -1,4 +1,5 @@
 # ZOOM CLONE
+
 ## [LIVE](https://zoom-clone-alpha-eosin.vercel.app/)
 
 ![Zoom](https://i.postimg.cc/28q8zh3V/Screenshot-2024-04-08-132146.png)
@@ -8,9 +9,6 @@
 ![clone](https://i.postimg.cc/3rp5x1Y4/Screenshot-2024-04-08-132819.png)
 
 ![applicatio](https://i.postimg.cc/d0c8RJgj/Screenshot-2024-04-08-132801.png)
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
